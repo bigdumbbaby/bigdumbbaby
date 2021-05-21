@@ -17,9 +17,12 @@
 
 ### Find me on the web, I would love to connect with you!
 
-[<img align='left' alt='LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />](https://www.linkedin.com/in/colton-o-connor/)
-[<img align='left' alt='Medium' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg' />](https://colton-shawn-oconnor.medium.com/)
-[<img align='left' alt='Medium' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/protonmail.svg' />](mailto:colton.shawn.oconnor@gmail.com)
+<p align="center"><a href="https://coltonoconnor.com/">Personal Website</a></p>
+<p align="center">
+  <a href="mailto:colton.shawn.oconnor@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Email Icon" width="30" height="30" /></a> 
+  <a href="https://www.linkedin.com/in/colton-o-connor/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="30" height="30" /></a>   
+  <a href="https://colton-shawn-oconnor.medium.com/"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" alt="Medium Logo" width="30" height="30" /></a> 
+</p>
 
 <!--
 **bigdumbbaby/bigdumbbaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
